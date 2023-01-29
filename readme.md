@@ -1,4 +1,4 @@
-ToDo App that will add, mark off and remove simple todos that the user can enter. 
+ToDo App that will add, mark done and remove simple todos that the user can enter on input. 
  
  Create index.html
  Add Vue.js to index.html
