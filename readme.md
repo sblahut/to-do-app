@@ -1,6 +1,6 @@
 ToDo App that will add, mark done and remove simple todos that the user can enter on input. 
  
- Create index.html
+ Create index.html<br>
  Add Vue.js to index.html
  Create a Vue instance in app.js
  Show message from Vue instance on page
